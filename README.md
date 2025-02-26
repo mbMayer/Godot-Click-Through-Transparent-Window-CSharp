@@ -10,3 +10,4 @@
 - Attach **Screen_Borders.gd** script at StaticBody2D-node
 <br>
 Test scene included
+<img src="https://github.com/mbMayer/Godot-Click-Through-Transparent-Window-CSharp/blob/main/transparentshow.gif"/></h1>
