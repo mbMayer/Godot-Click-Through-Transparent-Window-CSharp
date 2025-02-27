@@ -5,15 +5,12 @@
 <h2>How to use </h2>
 - Use Godot 4.x mono!
 <br>
-<br>
 - Attach **TransparencyWindow.cs** script at root-node of your scene
-<br>
 <br>
 - Attach **Screen_Borders.gd** script at StaticBody2D-node
 <br>
 <br>
 Test scene included
-<br>
 <br>
 Only for Windows
 <br>
