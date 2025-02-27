@@ -9,6 +9,8 @@
 <br>
 - Attach **Screen_Borders.gd** script at StaticBody2D-node
 <br>
+- Enable Transparent and Per Pixel Transparency in project settings
+<br>
 <br>
 Test scene included
 <br>
